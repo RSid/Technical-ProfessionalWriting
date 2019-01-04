@@ -12,9 +12,25 @@ I particularly value:
 
 in myself and the people I work with. 
 
-I respond well to compliment sandwiches, frequent feedback, and collaborative teams. I like learning new things, and generally take more joy in being able to do a little bit of everything than in focusing on only one thing.
+I respond well to compliment sandwiches, frequent feedback, and collaborative teams. I like learning new things, and generally take more joy in being able to do a some of everything than in focusing on one narrow specialty.
 
 I've found that teams that adhere fairly closely to Agile methedologies are more efficient and get along better. SCRUM and Kanban are both great, and retrospectives and refinements lead to strong teams and good software.
+
+## Things I like and am good at
+
+* Organizing people, projects, and processes. Doing logistics
+* Designing systems
+* Working with people
+* Having a breadth of responsibilities and skills. Multi-tasking
+* Interacting regularly with the big picture of my organization, thinking about value and context
+* Refactoring code towards best practices
+
+## Things I dislike
+
+* Disorganization, lack of planning
+* Domains I'm not engaged by
+* Letting the perfect be the enemy of the good - shipping is great
+* Working in isolation from others / from the greater organizational vision
 
 ## Code values
 
@@ -23,9 +39,10 @@ I've found that teams that adhere fairly closely to Agile methedologies are more
   * Thoughtful, descriptive naming of variables, methods, class, files, etc
   * Prefer commonly-used methods/approaches to known problems over 'clever' ones, unless there's a good reason not to
 * Verifiable and observable
-  * TDD is negotiable, but having a test suite isn't. Some version of BDD is ideal
-  * Error tracking and logging should be part of the development process, not an afterthought
+  * TDD is negotiable, but having a robust test suite isn't. Some version of BDD is ideal
+  * Error tracking and application logging and monitoring should be part of the development process and easy to use
 * Infrastructure is code
-  * Not everyone needs perfectly automated CI/CD, but isn't it nice? As you scale, it becomes a must
+  * Not everyone needs perfectly automated CI/CD, but isn't it nice? As you scale, it becomes more and more necessary
 * Domain driven design
 * Object oriented and functional programming are both cool, for different jobs
+
