@@ -24,6 +24,7 @@ I've found that teams that adhere fairly closely to Agile methedologies are more
 * Having a breadth of responsibilities and skills. Multi-tasking
 * Interacting regularly with the big picture of my organization, thinking about value and context
 * Refactoring code towards best practices
+* Learning new technologies & paradigms
 
 ## Things I dislike
 
