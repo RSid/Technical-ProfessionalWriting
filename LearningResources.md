@@ -12,11 +12,14 @@ In the course of mentoring and sharing patterns and ideas with other developers,
 * [stub] Domain Driven Design
 * [stub] RESTful API Design (REST)
 * [stub] Model View Controller (MVC)
+* [stub] Object-oriented Design
+* [stub] Functional Programming
 
 ## Practices
 
 * [stub] Test Driven Development (TDD)
 * [stub] Behaviour Driven Development (BDD)
 * [What makes a good test?](https://github.com/RSid/Technical-ProfessionalWriting/blob/master/WhatMakesAGoodTest.md) Warning: my opinions here, synthesized from a few different sources with the intent to be brief and digestable rather than a thorough argument for each point.
+* [What makes a good pull request?](https://github.com/RSid/Technical-ProfessionalWriting/blob/master/PullRequests.md) Again, caveat emptor, my own opinions succinctly stated
 
 ## Specific Languages and Frameworks
