@@ -1,4 +1,4 @@
-# Developer readme - WIP
+# Developer readme
 Hi! This doc is intended as a ReadMe for, well, me, or more specifically me as a developer. The concept is borrowed from the idea of [manager readmes](https://medium.com/@kawomersley/why-and-how-to-share-your-manager-readme-plus-heres-mine-8a4fe188ee1b). Like managers, developers bring a series of priorities and assumptions to the table, as well as a unique working style. This is my effort to make mine maximally transparant. 
 
 ## Working style
