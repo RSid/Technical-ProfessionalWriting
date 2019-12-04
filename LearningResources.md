@@ -1,4 +1,4 @@
-# 👩‍💻 LearnYouACode 👨‍💻
+# 👩‍💻 Learn You A Code 👨‍💻
 
 In the course of mentoring and sharing patterns and ideas with other developers, I realized I was often searching for the same resources and articles over and over again. It seemed useful to start keeping track of them in one publicly available place in a more organized manner, so here we are!
 
