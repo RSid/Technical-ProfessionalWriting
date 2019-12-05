@@ -8,10 +8,15 @@ In the course of mentoring and sharing patterns and ideas with other developers,
 * [What's Version Control?](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
 
 ## Design Patterns 🗺️
-
-* [stub] Domain Driven Design
+### APIs
+* [How to choose what http status code to return](https://www.codetinkerer.com/2015/12/04/choosing-an-http-status-code.html)
 * [stub] RESTful API Design (REST)
+
+### Web development
 * [stub] Model View Controller (MVC)
+
+### General code organization/style
+* [stub] Domain Driven Design
 * [stub] Object-oriented Design
 * [stub] Functional Programming
 
