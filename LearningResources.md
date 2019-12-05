@@ -19,23 +19,29 @@ In the course of mentoring and sharing patterns and ideas with other developers,
 * 💡 [What's Version Control?](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
 * 🏋️ [Interactive Git tutorial](https://learngitbranching.js.org/?locale=en_US). It covers basics like branching and merging, but also more complex topics like rebasing.
 
+
 ## Design Patterns 🗺️
 ### APIs
 * 📓 [How to choose what http status code to return](https://www.codetinkerer.com/2015/12/04/choosing-an-http-status-code.html)
 * [stub] RESTful API Design (REST)
+  * 💡 [A basic API primer](https://medium.com/@mattburgess/apis-a-basic-primer-f8250602597d) Useful in my mind primarily for the clear explanation of the different 'levels' of REST, explained clearly and briefly
+
 
 ### Web development
 * [stub] Model View Controller (MVC)
 * [Command Query Responsibility Segregation (CQRS)](https://martinfowler.com/bliki/CQRS.html)
 
+
 ### Data analytics/pipelines
 * [stub]
+
 
 ### General code organization/style
 * [stub] Domain Driven Design
   * [5 minute overview of DDD (and a few other best practices)](https://medium.com/the-coding-matrix/ddd-101-the-5-minute-tour-7a3037cf53b8) I don't know if I love the writing style, but a clear an succinct explanation and argument for the utility of practices I think produce good code
 * [stub] Object-oriented Design
 * [stub] Functional Programming
+
 
 ## Practices 🕴️
 
@@ -45,4 +51,6 @@ In the course of mentoring and sharing patterns and ideas with other developers,
 * [What makes a good test?](https://github.com/RSid/Technical-ProfessionalWriting/blob/master/WhatMakesAGoodTest.md) Warning: my opinions here, synthesized from a few different sources with the intent to be brief and digestable rather than a thorough argument for each point.
 * [What makes a good pull request?](https://github.com/RSid/Technical-ProfessionalWriting/blob/master/PullRequests.md) Again, caveat emptor, my own opinions succinctly stated
 
+
 ## Specific Languages and Frameworks 🗣️
+* [stub]
