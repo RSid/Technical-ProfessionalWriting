@@ -23,8 +23,10 @@ In the course of mentoring and sharing patterns and ideas with other developers,
 ## Design Patterns 🗺️
 ### APIs
 * 📓 [How to choose what http status code to return](https://www.codetinkerer.com/2015/12/04/choosing-an-http-status-code.html)
-* [stub] RESTful API Design (REST)
+* RESTful API Design (REST)
   * 💡 [A basic API primer](https://medium.com/@mattburgess/apis-a-basic-primer-f8250602597d) Useful in my mind primarily for the clear explanation of the different 'levels' of REST, explained clearly and briefly
+  * 📓 [REST resource naming guide](https://restfulapi.net/resource-naming/) There's a lot more here besides the guide that can act as a conceptual primer as well.
+  * 📚 [Roy Fielding's 2000 thesis that introduced the REST pattern](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
 
 
 ### Web development
