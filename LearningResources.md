@@ -51,6 +51,8 @@ In the course of mentoring and sharing patterns and ideas with other developers,
 * [stub] Test Driven Development (TDD)
 * [stub] Behaviour Driven Development (BDD)
 * [What makes a good test?](https://github.com/RSid/Technical-ProfessionalWriting/blob/master/WhatMakesAGoodTest.md) Warning: my opinions here, synthesized from a few different sources with the intent to be brief and digestable rather than a thorough argument for each point.
+* [Peer code review best practices](https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/)
+* [Writing PRs that are pleasant/easy to review](https://medium.com/@greenberg/writing-pull-requests-your-coworkers-might-enjoy-reading-9d0307e93da3)
 * [What makes a good pull request?](https://github.com/RSid/Technical-ProfessionalWriting/blob/master/PullRequests.md) Again, caveat emptor, my own opinions succinctly stated
 
 
