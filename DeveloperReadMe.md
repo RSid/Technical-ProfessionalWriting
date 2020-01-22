@@ -9,10 +9,11 @@ I particularly value:
 * empathy
 * efficiency
 * humor
+* introspection
 
 in myself and the people I work with. 
 
-I respond well to compliment sandwiches, frequent feedback, and collaborative teams. I like learning new things, and generally take more joy in being able to do a some of everything than in focusing on one narrow specialty. Mentoring newer developers is something I enjoy and prioritize.
+I respond well to compliment sandwiches, frequent feedback, and collaborative teams. I like learning new things, and generally take more joy in being able to do some of everything than in focusing on one narrow specialty. Mentoring newer developers is something I enjoy and prioritize.
 
 I've found that teams that adhere fairly closely to Agile methedologies are more efficient and get along better. SCRUM and Kanban are both great, and retrospectives and refinements lead to strong teams and good software.
 
@@ -32,6 +33,8 @@ I've found that teams that adhere fairly closely to Agile methedologies are more
 * Domains I'm not engaged by
 * Letting the perfect be the enemy of the good - shipping projects is great
 * Working in isolation from others / from the greater organizational vision
+* Inconsistent or ill-defined processes 
+* Inertia or resistence with regards to change
 
 ## Code values
 
