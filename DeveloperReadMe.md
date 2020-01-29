@@ -49,6 +49,6 @@ I've found that teams that adhere fairly closely to Agile methedologies are more
   * Not everyone needs perfectly automated CI/CD, but isn't it nice? As you scale, it becomes more and more necessary
 * Domain driven design
 * Object oriented and functional programming are both cool, for different jobs
-* Build over buy
+* Buy over build
   * Assuming the cost is reasonable and viable for the business, and it doesn't increase complexity substantially, buy anything that's not within your company's specific area of expertise. Spend as much time as possible on what you're uniquely good at, and leverage the unique goodness of others through their services/libraries/etc
 
