@@ -15,7 +15,7 @@ YOU ARE EATEN BY AN ELDER CODE HACK.
 -@brianwisti
 ```
 
-So you’ve got your first programming job out of Launch Academy. Congratulations! You’ve got a solid grasp of Rails, MVC, Object Oriented Programming, and SQL, and have completed your breakable toy in the not-so-distant past. You officially know how to build a web app from the ground up. However, when you get into the office on your first day and take a look at your new company’s codebase (realistically maybe not quite your first day, depending on how daunting environment set-up is at your new workplace), chances are it won’t look as familiar as you’d hope. 
+So you’ve got your first programming job out of coding bootcamp. Congratulations! You’ve likely got a solid grasp of Rails, MVC, Object Oriented Programming, and SQL, and have completed your final project in the not-so-distant past. You officially know how to build a web app from the ground up. However, when you get into the office on your first day and take a look at your new company’s codebase (realistically maybe not quite your first day, depending on how daunting environment set-up is at your new workplace), chances are it won’t look as familiar as you’d hope. 
 
 First off, it will likely be far, far larger than anything you’ve had to contend with in the past. It will also likely be more disorganized, even if you’re working in an opinionated framework like Rails. The organization also might be very different than what you’re used to; the codebase may actually consist of a series of separate small apps that all need to communicate with each other, or (if you’re out of Rails) may not be MVC at all.
 
