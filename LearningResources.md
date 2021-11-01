@@ -30,8 +30,11 @@ In the course of mentoring and sharing patterns and ideas with other developers,
 
 
 ### Web development
-* [stub] Model View Controller (MVC)
-* [Command Query Responsibility Segregation (CQRS)](https://martinfowler.com/bliki/CQRS.html)
+* 📚[12 Factor App](https://12factor.net/)
+* 💡[The What, Why, And How of a Microservice Architecture](https://medium.com/hashmapinc/the-what-why-and-how-of-a-microservices-architecture-4179579423a9)
+* Smaller-scale patterns:
+  * [stub] Model View Controller (MVC)
+  * [Command Query Responsibility Segregation (CQRS)](https://martinfowler.com/bliki/CQRS.html)
 
 
 ### Data analytics/pipelines
